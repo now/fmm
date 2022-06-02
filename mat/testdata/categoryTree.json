@@ -1,0 +1,42 @@
+{
+  "count": 70,
+  "id": 1467,
+  "name": "Mat.se Göteborg",
+  "maxImmediateChildren": 19,
+  "subCategories": [
+    {
+      "count": 70,
+      "id": 11472,
+      "name": "Hälsa & Träning",
+      "maxImmediateChildren": 4,
+      "subCategories": [
+        {
+          "count": 67,
+          "id": 11474,
+          "name": "Bars",
+          "maxImmediateChildren": 0,
+          "subCategories": [],
+          "bannerImage": null,
+          "bannerActive": false,
+          "nameFullPath": "Mat.se Göteborg/Hälsa & Träning/Bars"
+        },
+        {
+          "count": 3,
+          "id": 11476,
+          "name": "Proteinpulver",
+          "maxImmediateChildren": 0,
+          "subCategories": [],
+          "bannerImage": null,
+          "bannerActive": false,
+          "nameFullPath": "Mat.se Göteborg/Hälsa & Träning/Proteinpulver"
+        }
+      ],
+      "bannerImage": null,
+      "bannerActive": false,
+      "nameFullPath": "Mat.se Göteborg/Hälsa & Träning"
+    }
+  ],
+  "bannerImage": null,
+  "bannerActive": null,
+  "nameFullPath": ""
+}

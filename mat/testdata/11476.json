@@ -1,0 +1,557 @@
+[
+  {
+    "id": 104129,
+    "dateCreated": "Tue Dec 03 10:07:38 CET 2019",
+    "name": "Whey-80 Double Rich Chocolate",
+    "showPrice": "140  kr",
+    "friendlyUrl": "whey-80-double-rich-chocolate-star-nutrition-500g",
+    "formattedName": "Whey-80 Double Rich Chocolate",
+    "ean": "7350049159683",
+    "countryOfOrigin": null,
+    "translatedCountryName": "",
+    "labelTags": [],
+    "hasImage": true,
+    "imageUrl": "https://d1hr6nb56yyl1.cloudfront.net/product-images/104129-150.jpg",
+    "brand": {
+      "id": 7641,
+      "name": "Star Nutrition"
+    },
+    "categories": [
+      {
+        "id": 9230,
+        "name": "Proteintillskott"
+      },
+      {
+        "id": 11476,
+        "name": "Proteinpulver"
+      }
+    ],
+    "displayBrand": "Star Nutrition",
+    "favouriteCount": 50,
+    "active": true,
+    "inStockQuantity": 1,
+    "orderable": true,
+    "price": 140,
+    "priceWithoutVat": 125,
+    "recommendedRetailPrice": null,
+    "readableComparisonPrice": "280 kr/kg",
+    "discount": null,
+    "discountedPrice": 0,
+    "size": "500G",
+    "weightProduct": false,
+    "vat": 12,
+    "content": "VASSLEPROTEINKONCENTRAT (MJÖLK) (innehåller emulgeringsmedel (mono- och diglycerider av fettsyror)), kakao, arom, sötningsmedel (aspartam*, acesulfam-K). * Innehåller en källa till fenylalanin",
+    "nutrition": "Näringsvärde per 100 Gram\nenergi 1600 Kilojoule\nenergi 380 Kilokalori\nfett 6 Gram\nvarav mättat fett 4 Gram\nkolhydrat 5 Gram\nvarav sockerarter 4.5 Gram\nfiber 1.2 Gram\nprotein 76 Gram\nsalt 0.58 Gram",
+    "durability": null,
+    "recycling": null,
+    "detail": null,
+    "storage": null,
+    "combinedNameWithBrand": "Whey-80 Double Rich Chocolate Star Nutrition",
+    "averageProductLife": 0,
+    "minimumDaysBeforeExpire": 31,
+    "averageUnitWeight": 530,
+    "weight": 530,
+    "isMixable": false,
+    "idRequired": 0,
+    "tagNames": [],
+    "featured": false,
+    "campaignRank": 2147483647,
+    "availableQuantities": [
+      {
+        "quantity": 1,
+        "quantityKey": "dw-14466"
+      },
+      {
+        "quantity": 1,
+        "quantityKey": "dw-14428"
+      },
+      {
+        "quantity": 1,
+        "quantityKey": "dw-14458"
+      },
+      {
+        "quantity": 1,
+        "quantityKey": "dw-14414"
+      },
+      {
+        "quantity": 1,
+        "quantityKey": "dw-14422"
+      },
+      {
+        "quantity": 1,
+        "quantityKey": "dw-14398"
+      },
+      {
+        "quantity": 1,
+        "quantityKey": "dw-14400"
+      },
+      {
+        "quantity": 1,
+        "quantityKey": "dw-14468"
+      },
+      {
+        "quantity": 1,
+        "quantityKey": "dw-14452"
+      },
+      {
+        "quantity": 1,
+        "quantityKey": "dw-14384"
+      },
+      {
+        "quantity": 1,
+        "quantityKey": "dw-14406"
+      },
+      {
+        "quantity": 1,
+        "quantityKey": "dw-14444"
+      },
+      {
+        "quantity": 1,
+        "quantityKey": "dw-14382"
+      },
+      {
+        "quantity": 1,
+        "quantityKey": "dw-14442"
+      },
+      {
+        "quantity": 1,
+        "quantityKey": "dw-14450"
+      },
+      {
+        "quantity": 1,
+        "quantityKey": "dw-14460"
+      },
+      {
+        "quantity": 1,
+        "quantityKey": "dw-14392"
+      },
+      {
+        "quantity": 1,
+        "quantityKey": "dw-14390"
+      },
+      {
+        "quantity": 1,
+        "quantityKey": "dw-14434"
+      },
+      {
+        "quantity": 1,
+        "quantityKey": "default"
+      },
+      {
+        "quantity": 1,
+        "quantityKey": "dw-14416"
+      },
+      {
+        "quantity": 1,
+        "quantityKey": "dw-14426"
+      },
+      {
+        "quantity": 1,
+        "quantityKey": "dw-14408"
+      },
+      {
+        "quantity": 1,
+        "quantityKey": "dw-14436"
+      },
+      {
+        "quantity": 1,
+        "quantityKey": "dw-14474"
+      }
+    ],
+    "emission": 0,
+    "allergies": [
+      {
+        "id": 7,
+        "infoSource": null,
+        "level": {
+          "enumType": "se.mat.mycroft.enums.AllergyLevel",
+          "name": "CONTAINS"
+        },
+        "substanceName": "Mjölk"
+      }
+    ],
+    "warehouseProductMappingId": null,
+    "productRelationship": {
+      "canBeReplacedWithProductIds": [],
+      "canBeSubstitutedWithProductIds": [],
+      "sameContentProductIds": []
+    },
+    "soldCount": 192,
+    "variety": "",
+    "isAgreeWithPersonalTerms": null,
+    "hasDeclinedPersonalAgreement": null,
+    "probability": null,
+    "productCountries": [],
+    "productVarieties": [],
+    "productBanner": null,
+    "isShowOnTopProduct": false,
+    "primaryCategoryNamePath": "Mat.se Göteborg/Apoteksvaror/Vitaminer, Hälso- & Kosttillskott/Proteintillskott"
+  },
+  {
+    "id": 134476,
+    "dateCreated": "Tue Apr 05 14:02:56 CEST 2022",
+    "name": "Vegan Protein Chocolate",
+    "showPrice": "150  kr",
+    "friendlyUrl": "vegan-protein-chocolate-star-nutrition-500g",
+    "formattedName": "Vegan Protein Chocolate",
+    "ean": "7340028822448",
+    "countryOfOrigin": null,
+    "translatedCountryName": "",
+    "labelTags": [],
+    "hasImage": true,
+    "imageUrl": "https://d1hr6nb56yyl1.cloudfront.net/product-images/134476-150.jpg",
+    "brand": {
+      "id": 7641,
+      "name": "Star Nutrition"
+    },
+    "categories": [
+      {
+        "id": 11476,
+        "name": "Proteinpulver"
+      },
+      {
+        "id": 9230,
+        "name": "Proteintillskott"
+      }
+    ],
+    "displayBrand": "Star Nutrition",
+    "favouriteCount": 5,
+    "active": true,
+    "inStockQuantity": 7,
+    "orderable": true,
+    "price": 150,
+    "priceWithoutVat": 133.9285714286,
+    "recommendedRetailPrice": null,
+    "readableComparisonPrice": "300 kr/kg",
+    "discount": null,
+    "discountedPrice": 0,
+    "size": "500g",
+    "weightProduct": false,
+    "vat": 12,
+    "content": "Ärtproteinisolat, fettreducerat kakaopulver, arom, salt, förtjockningsmedel (cellulosagummi), surhetsreglerande medel (citronsyra), emulgeringsmedel (solroslecitin), sötningsmedel (sukralos, acesulfam-K.)",
+    "nutrition": "Näringsvärde per 100.0 gram\nEnergi 397/1662 kilokalori/kilojoule\nFett 9.7 gram\nvarav mättat fett 2.8 gram\nKolhydrat 1.7 gram\nvarav sockerarter 0.5 gram\nFiber 4.7 gram\nProtein 73 gram\nSalt 3.3 gram",
+    "durability": null,
+    "recycling": null,
+    "detail": "Vegan Protein är ett 100% vegankompatibelt protein, beståendes av ärtproteinisolat. Det är en lättblandad och fantastiskt välsmakande produkt med ett högt proteininnehåll och ett väldigt lågt kolhydrat- och fettinnehåll. Ärtprotein är en av de vegetabiliska proteinkällor som har bäst proteinkvalitet, vilket i klarspråk innebär att den har ett för musklerna gynnsamt innehåll av viktiga aminosyror.\n\nBlanda 25 g (0,5 dl) pulver med 250 ml vatten. Använd när som helst under dagen, förslagsvis i samband med träning eller mellanmål.",
+    "storage": "Förvaras torrt vid rumstemperatur.",
+    "combinedNameWithBrand": "Vegan Protein Chocolate Star Nutrition",
+    "averageProductLife": 0,
+    "minimumDaysBeforeExpire": 31,
+    "averageUnitWeight": 0,
+    "weight": 530,
+    "isMixable": false,
+    "idRequired": 0,
+    "tagNames": [],
+    "featured": false,
+    "campaignRank": 2147483647,
+    "availableQuantities": [
+      {
+        "quantity": 7,
+        "quantityKey": "dw-14466"
+      },
+      {
+        "quantity": 7,
+        "quantityKey": "dw-14458"
+      },
+      {
+        "quantity": 7,
+        "quantityKey": "dw-14422"
+      },
+      {
+        "quantity": 7,
+        "quantityKey": "dw-14442"
+      },
+      {
+        "quantity": 7,
+        "quantityKey": "dw-14450"
+      },
+      {
+        "quantity": 7,
+        "quantityKey": "default"
+      },
+      {
+        "quantity": 7,
+        "quantityKey": "dw-14382"
+      },
+      {
+        "quantity": 7,
+        "quantityKey": "dw-14392"
+      },
+      {
+        "quantity": 7,
+        "quantityKey": "dw-14390"
+      },
+      {
+        "quantity": 7,
+        "quantityKey": "dw-14414"
+      },
+      {
+        "quantity": 7,
+        "quantityKey": "dw-14444"
+      },
+      {
+        "quantity": 7,
+        "quantityKey": "dw-14408"
+      },
+      {
+        "quantity": 7,
+        "quantityKey": "dw-14436"
+      },
+      {
+        "quantity": 7,
+        "quantityKey": "dw-14460"
+      },
+      {
+        "quantity": 7,
+        "quantityKey": "dw-14452"
+      },
+      {
+        "quantity": 7,
+        "quantityKey": "dw-14416"
+      },
+      {
+        "quantity": 7,
+        "quantityKey": "dw-14384"
+      },
+      {
+        "quantity": 7,
+        "quantityKey": "dw-14468"
+      },
+      {
+        "quantity": 7,
+        "quantityKey": "dw-14426"
+      },
+      {
+        "quantity": 7,
+        "quantityKey": "dw-14434"
+      },
+      {
+        "quantity": 7,
+        "quantityKey": "dw-14406"
+      },
+      {
+        "quantity": 7,
+        "quantityKey": "dw-14428"
+      },
+      {
+        "quantity": 7,
+        "quantityKey": "dw-14398"
+      },
+      {
+        "quantity": 7,
+        "quantityKey": "dw-14400"
+      }
+    ],
+    "emission": 0,
+    "allergies": [],
+    "warehouseProductMappingId": null,
+    "productRelationship": {
+      "canBeReplacedWithProductIds": [],
+      "canBeSubstitutedWithProductIds": [],
+      "sameContentProductIds": []
+    },
+    "soldCount": 19,
+    "variety": "",
+    "isAgreeWithPersonalTerms": null,
+    "hasDeclinedPersonalAgreement": null,
+    "probability": null,
+    "productCountries": [],
+    "productVarieties": [],
+    "productBanner": null,
+    "isShowOnTopProduct": false,
+    "primaryCategoryNamePath": "Mat.se Göteborg/Hälsa & Träning/Proteinpulver"
+  },
+  {
+    "id": 134458,
+    "dateCreated": "Tue Apr 05 14:02:21 CEST 2022",
+    "name": "Whey-80 Vanilla Pear",
+    "showPrice": "140  kr",
+    "friendlyUrl": "whey-80-vanilla-pear-star-nutrition-500g",
+    "formattedName": "Whey-80 Vanilla Pear",
+    "ean": "7350049159607",
+    "countryOfOrigin": "SE",
+    "translatedCountryName": "Sverige",
+    "labelTags": [],
+    "hasImage": true,
+    "imageUrl": "https://d1hr6nb56yyl1.cloudfront.net/product-images/134458-150.jpg",
+    "brand": {
+      "id": 7641,
+      "name": "Star Nutrition"
+    },
+    "categories": [
+      {
+        "id": 9230,
+        "name": "Proteintillskott"
+      },
+      {
+        "id": 11476,
+        "name": "Proteinpulver"
+      }
+    ],
+    "displayBrand": "Star Nutrition",
+    "favouriteCount": 7,
+    "active": true,
+    "inStockQuantity": 8,
+    "orderable": true,
+    "price": 140,
+    "priceWithoutVat": 125,
+    "recommendedRetailPrice": null,
+    "readableComparisonPrice": "280 kr/kg",
+    "discount": null,
+    "discountedPrice": 0,
+    "size": "500g",
+    "weightProduct": false,
+    "vat": 12,
+    "content": "VASSLEPROTEINKONCENTRAT (MJÖLK) (innehåller emulgeringsmedel (SOJALECITIN)), arom, sötningsmedel (aspartam)*. * Innehåller en källa till fenylalanin",
+    "nutrition": "Näringsvärde per 100 gram\nEnergi 1640/392 kilojoule/kilokalori\nFett 8 gram\nvarav mättat fett 6 gram\nKolhydrat 4 gram\nvarav sockerarter 3 gram\nFiber 0.2 gram\nProtein 76 gram\nSalt 0.5 gram",
+    "durability": null,
+    "recycling": null,
+    "detail": "Star Nutritions Whey-80® - komplett proteintillskott för dig som idrottar och vill ha bästa möjliga resultat av din träning! Sveriges populäraste protein!\n\n \n\nWhey-80® från Star Nutrition är ett högvärdigt proteintillskott med god smak och löslighet. Produkten består av 100% ultrafiltrerat och instantiserat vassleproteinkoncentrat och är det ultimata tillskottet för dig som idrottar.  Whey-80® påskyndar muskeluppbyggnad och återhämtning och ger snabbt märkbara resultat!\n\n0,75-1 dl pulver blandas med 2,3 dl vatten eller mjölk i en shaker. För maximalt resultat ta tre portioner av Whey-80® dagligen.",
+    "storage": "Rumstemperatur",
+    "combinedNameWithBrand": "Whey-80 Vanilla Pear Star Nutrition",
+    "averageProductLife": 0,
+    "minimumDaysBeforeExpire": 31,
+    "averageUnitWeight": 0,
+    "weight": 530,
+    "isMixable": false,
+    "idRequired": 0,
+    "tagNames": [],
+    "featured": false,
+    "campaignRank": 2147483647,
+    "availableQuantities": [
+      {
+        "quantity": 8,
+        "quantityKey": "dw-14392"
+      },
+      {
+        "quantity": 8,
+        "quantityKey": "dw-14416"
+      },
+      {
+        "quantity": 8,
+        "quantityKey": "dw-14428"
+      },
+      {
+        "quantity": 8,
+        "quantityKey": "dw-14426"
+      },
+      {
+        "quantity": 8,
+        "quantityKey": "dw-14436"
+      },
+      {
+        "quantity": 8,
+        "quantityKey": "dw-14466"
+      },
+      {
+        "quantity": 8,
+        "quantityKey": "dw-14384"
+      },
+      {
+        "quantity": 8,
+        "quantityKey": "dw-14398"
+      },
+      {
+        "quantity": 8,
+        "quantityKey": "dw-14406"
+      },
+      {
+        "quantity": 8,
+        "quantityKey": "dw-14468"
+      },
+      {
+        "quantity": 8,
+        "quantityKey": "dw-14444"
+      },
+      {
+        "quantity": 8,
+        "quantityKey": "dw-14408"
+      },
+      {
+        "quantity": 8,
+        "quantityKey": "dw-14450"
+      },
+      {
+        "quantity": 8,
+        "quantityKey": "dw-14400"
+      },
+      {
+        "quantity": 8,
+        "quantityKey": "dw-14452"
+      },
+      {
+        "quantity": 8,
+        "quantityKey": "dw-14390"
+      },
+      {
+        "quantity": 8,
+        "quantityKey": "dw-14434"
+      },
+      {
+        "quantity": 8,
+        "quantityKey": "dw-14460"
+      },
+      {
+        "quantity": 8,
+        "quantityKey": "dw-14442"
+      },
+      {
+        "quantity": 8,
+        "quantityKey": "dw-14382"
+      },
+      {
+        "quantity": 8,
+        "quantityKey": "default"
+      },
+      {
+        "quantity": 8,
+        "quantityKey": "dw-14458"
+      },
+      {
+        "quantity": 8,
+        "quantityKey": "dw-14414"
+      },
+      {
+        "quantity": 8,
+        "quantityKey": "dw-14422"
+      }
+    ],
+    "emission": 0,
+    "allergies": [
+      {
+        "id": 7,
+        "infoSource": null,
+        "level": {
+          "enumType": "se.mat.mycroft.enums.AllergyLevel",
+          "name": "CONTAINS"
+        },
+        "substanceName": "Mjölk"
+      },
+      {
+        "id": 6,
+        "infoSource": null,
+        "level": {
+          "enumType": "se.mat.mycroft.enums.AllergyLevel",
+          "name": "CONTAINS"
+        },
+        "substanceName": "Sojabönor"
+      }
+    ],
+    "warehouseProductMappingId": null,
+    "productRelationship": {
+      "canBeReplacedWithProductIds": [],
+      "canBeSubstitutedWithProductIds": [],
+      "sameContentProductIds": []
+    },
+    "soldCount": 24,
+    "variety": "",
+    "isAgreeWithPersonalTerms": null,
+    "hasDeclinedPersonalAgreement": null,
+    "probability": null,
+    "productCountries": [],
+    "productVarieties": [],
+    "productBanner": null,
+    "isShowOnTopProduct": false,
+    "primaryCategoryNamePath": "Mat.se Göteborg/Apoteksvaror/Vitaminer, Hälso- & Kosttillskott/Proteintillskott"
+  }
+]

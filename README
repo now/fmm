@@ -1,0 +1,23 @@
+                   Future Memories mat.se code test
+
+  This is an implementation of the Future Memories mat.se code test.
+  It stays true to the task, except that all data is written to one
+  file instead of three.  The data is written as JSON to stdandard
+  output.  To run the code:
+
+    % go run main.go
+
+  To run the tests:
+
+    % go test ./...
+
+  There’s an issue when mat.se’s API doesn’t return a proper HTTP
+  status and instead gives the status as part of an error object:
+
+    {"error":"404: Not Found","message":"/api/product/listCategory"}
+
+  The code doesn’t currently handle this issue.
+
+  Also, the fact that I seem to be throttled from using this part of
+  the API means that I haven’t been able to generate a valid result
+  yet.
